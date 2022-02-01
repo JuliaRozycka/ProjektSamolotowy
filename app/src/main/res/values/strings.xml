@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">jakdolece</string>
+    <string name="skad_wskazowka">Skąd lecimy?</string>
+    <string name="dokad_wskazowka">Dokąd lecimy?</string>
+    <string name="lecimy_przycisk">LECIMY!</string>
+    <string name="czas_opcje_txt">Ustaw czas:</string>
+    <string-array name="czas_opcje">
+        <item>wylotu</item>
+        <item>przylotu</item>
+    </string-array>
+</resources>
